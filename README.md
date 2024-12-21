@@ -20,6 +20,8 @@
 
 - Transfer Learning - Cat Vz. Dogs
    - Implementação de rede convolucional usando transfer learning para diferenciação das categorias gato e cachorro.
+- Redução de Dimensionalidade em Imagens para Redes Neurais
+  - Implementação de funções que utilizam uma imagem da internet, por meio da URL, e convertem ela para tons de cinza e binariza. Ao final, o algoritmo baixa e apresenta para o usuário o resultado das imagens.
 
 ## :memo: Licença ##
 
