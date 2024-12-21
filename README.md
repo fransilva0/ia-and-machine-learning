@@ -22,6 +22,8 @@
    - Implementação de rede convolucional usando transfer learning para diferenciação das categorias gato e cachorro.
 - Redução de Dimensionalidade em Imagens para Redes Neurais
   - Implementação de funções que utilizam uma imagem da internet, por meio da URL, e convertem ela para tons de cinza e binariza. Ao final, o algoritmo baixa e apresenta para o usuário o resultado das imagens.
+- Matriz de Confusão e Desempenho
+  - Neste projeto, vamos calcular as principais métricas para avaliação de modelos de classificação de dados, como acurácia, sensibilidade (recall), especificidade, precisão e F-score. 
 
 ## :memo: Licença ##
 
