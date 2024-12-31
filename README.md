@@ -24,6 +24,8 @@
   - Implementação de funções que utilizam uma imagem da internet, por meio da URL, e convertem ela para tons de cinza e binariza. Ao final, o algoritmo baixa e apresenta para o usuário o resultado das imagens.
 - Matriz de Confusão e Desempenho
   - Neste projeto, vamos calcular as principais métricas para avaliação de modelos de classificação de dados, como acurácia, sensibilidade (recall), especificidade, precisão e F-score. 
+- Utilizando a Rede YOLO
+    - A [Yolo](https://colab.research.google.com/drive/1lTGZsfMaGUpBG4inDIQwIJVW476ibXk_#scrollTo=j0t221djS1Gk) é um algoritmo de detecção de objetos em tempo real. Nessa atividade proposta o algoritmo foi utilizado para detecção de objetos em imagens retiradas do Usplash para treino. [COCO](https://cocodataset.org/#home) foi o conjunto de dados usado para treinar e avaliar algoritmos de detecção de objetos.
 
 ## :memo: Licença ##
 
